@@ -1,2 +1,2 @@
 # portfolio
-Link: https://ripudaman.github.io
+Link: https://ripu.github.io
